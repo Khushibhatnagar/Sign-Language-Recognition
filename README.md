@@ -26,9 +26,13 @@ Three Main Steps:
 -Predicting the data
 
 Some of the outputs:
+
 ![image](https://user-images.githubusercontent.com/74890882/207000470-191ea242-f9e9-4d72-bcb9-9ef1a12dc62c.png)
+
 ![image](https://user-images.githubusercontent.com/74890882/207000510-f4d85f91-3cbb-4e5d-9c8b-d607921cb5fc.png)
+
 ![image](https://user-images.githubusercontent.com/74890882/207000525-8befd310-9302-4f54-8090-d7e9841a893e.png)
+
 ![image](https://user-images.githubusercontent.com/74890882/207000554-55adaef0-a3d6-46d9-b682-5b6a5becd207.png)
 
 
